@@ -1,0 +1,1 @@
+cmd_/home/jpuchky/workspace/LKM-Hybrid-XEN-socket/src/hxen.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/jpuchky/workspace/LKM-Hybrid-XEN-socket/src/hxen.ko /home/jpuchky/workspace/LKM-Hybrid-XEN-socket/src/hxen.o /home/jpuchky/workspace/LKM-Hybrid-XEN-socket/src/hxen.mod.o;  true

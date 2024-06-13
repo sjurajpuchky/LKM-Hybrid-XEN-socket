@@ -1,0 +1,1 @@
+cmd_/home/jpuchky/workspace/LKM-Hybrid-XEN-socket/Module.symvers :=  scripts/mod/modpost       -o /home/jpuchky/workspace/LKM-Hybrid-XEN-socket/Module.symvers -T /home/jpuchky/workspace/LKM-Hybrid-XEN-socket/modules.order -i Module.symvers -e 
